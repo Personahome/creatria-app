@@ -67,5 +67,3 @@ For licensing inquiries, please contact: [your email]
 For questions, feedback, or support requests, please visit: https://personahome.com.cn/
 
 ---
-
-## Open Personahome Proprietary License (OPPLI) v1.0
