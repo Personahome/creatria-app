@@ -42,12 +42,6 @@ Converted files are saved directly to the Mac's built-in **Photos App**.
 
 ---
 
-## Purchase & Licensing
-
-Creatria App is a commercial product. To obtain a license, please visit: [your website/store link]
-
----
-
 ## License
 
 This project is licensed under the **Open Personahome Proprietary License (OPPLI) v1.0**.
