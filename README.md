@@ -56,9 +56,6 @@ This project is licensed under the **Open Personahome Proprietary License (OPPLI
 | ❌ Reverse engineering | Prohibited |
 | ❌ Source code disclosure | Not required |
 
-For full license terms, please see the [LICENSE](./LICENSE) file.
-
-For licensing inquiries, please contact: [your email]
 
 ---
 
