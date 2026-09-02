@@ -1,3 +1,5 @@
+# Creatria App
+
 Creatria App can convert any media file in MOV format into Apple Live Photo. Creatria App is compatible with macOS 26 and above, and your Mac needs to be equipped with Apple M or A series chips.
 
 **Are there any restrictions on MOV format media files?**
